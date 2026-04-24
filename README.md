@@ -1,4 +1,4 @@
-# Autopsy-File-System-Analysis
+# Autopsy File System Analysis
 
 - Identifying file systems
 - Working with forensic images (E01) in Linux
